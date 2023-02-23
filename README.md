@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Kushal</h1>
+<h1 align="center">Hi 👋, I'm Kushal Kadel</h1>
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kusal6199&show_icons=true&count_private=true&include_all_commits=true&theme=swift)
